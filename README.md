@@ -1,5 +1,5 @@
 # sha256
-Encrypt a message using hash sha256.
+A very, very simple program to encrypt a message using hash sha256, commonly used in network security.
 
 I import the `hashlib` library so that I am able to perform sha256 functions.
 ```python
