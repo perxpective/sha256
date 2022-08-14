@@ -26,6 +26,5 @@ enter string to encrpyt: hello world
   <summary>Dropdown test</summary>
   <br>
   - hello
-  <br>
   - hello2
 </details>
